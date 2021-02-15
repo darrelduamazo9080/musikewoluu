@@ -1,0 +1,4 @@
+baseURL = "https://womoretmusic-tutu9.vercel.app"
+languageCode = "en-us"
+title = "Clarinet Music Story "
+theme = "hugo-theme-minos"
